@@ -22,7 +22,7 @@ function HomePage() {
 
       </div>
 
-      homePage
+     
     </div>
   )
 }
