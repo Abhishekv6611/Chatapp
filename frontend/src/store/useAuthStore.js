@@ -11,7 +11,7 @@ export const useAuthStore=create((set, get)=>({
    
     authUser:null,
     isSignUp:false,
-    isLoggingIng:false,
+    isLoggingIn:false,
     isUpdatingProfile:false,
     isCheckingAuth:true,
     onlineUsers:[],
